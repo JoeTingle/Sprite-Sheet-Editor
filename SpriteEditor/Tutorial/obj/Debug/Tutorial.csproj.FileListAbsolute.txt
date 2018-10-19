@@ -1,0 +1,76 @@
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\Tutorial.csprojResolveAssemblyReference.cache
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\MainWindow.g.cs
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\App.g.cs
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\Tutorial_MarkupCompile.cache
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\Tutorial_MarkupCompile.lref
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\MainWindow.baml
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\Tutorial.g.resources
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\bin\Debug\SaveLibrary.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\PopupWindow.g.cs
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027 - Tools Programming\Assignment\Tutorial\Tutorial\obj\Debug\PopupWindow.baml
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\WriteableBitmapEx.Wpf.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\WriteableBitmapEx.Wpf.pdb
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\WriteableBitmapEx.Wpf.xml
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\MainWindow.g.cs
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\PopupWindow.g.cs
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\App.g.cs
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial_MarkupCompile.cache
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial_MarkupCompile.lref
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\MainWindow.baml
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\PopupWindow.baml
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial.g.resources
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial.Properties.Resources.resources
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.GenerateResource.Cache
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CoreCompileInputs.cache
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial.exe
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial.pdb
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Tutorial.exe.config
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Tutorial.exe
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\bin\Debug\Tutorial.pdb
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial.csprojAssemblyReference.cache
+C:\Users\Joe Tingle\Perforce\s1701739_JT-PC_2630\2017-2018\1701739\CT4027-SUBMISSION1\Tutorial\Tutorial\obj\Debug\Tutorial.csproj.CopyComplete
